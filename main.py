@@ -21,9 +21,6 @@ async def on_message(message):
         await message.pin()
 
 
-
-
-
 client.run(config.TOKEN)
 
 
